@@ -15,6 +15,7 @@ Open the `main.ipynb` file in `your-code` directory. There are 3 challenges and 
 
 ## Deliverables
 
+You have here three exercises regarding three different datasets. The questions are similar so it is mandatory `to deliver just one of the exercises`. If you want to go further feel free!
 - `main.ipynb` with your responses.
 
 ## Submission
